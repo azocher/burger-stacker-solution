@@ -1,0 +1,9 @@
+App *burgerSeed
+|--IngredientList 
+|  |--Ingredient(s)
+|
+|--BurgerPane
+|  |--BurgerStack
+|  |  |--Ingredient(s)
+|  |
+|  |--ClearBurger
